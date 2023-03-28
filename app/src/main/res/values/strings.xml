@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ConstraintUi</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="title_activity_chose_topic">ChoseTopicActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="what_brings_you_to_silent_moon"><b>What Brings you</b>\nto Silent Moon?</string>
+    <string name="choose_a_topic_to_focuse_on">choose a topic to focuse on:</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="sign_up_text">Sign up</string>
+</resources>
